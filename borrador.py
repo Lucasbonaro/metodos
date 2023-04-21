@@ -1,10 +1,9 @@
-
-import math
-
 print('Ingrese n entre 3 y 12:')
 print()
 n=int(input())
 print()
+
+import math
 
 matriz=[]
 filas=n;columnas=n
@@ -26,7 +25,6 @@ def Mostrar1(): #muestra matriz de n x n
 elementos()
 
 Mostrar1()
-
 
 vector=[]
 
